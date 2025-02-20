@@ -1,5 +1,4 @@
 # Projekt_Python
-Závěrečný projekt
 Závěrečný projekt: Analýza pronájmů bytů v Ostravě
 Tento projekt se zaměřuje na web scraping a analýzu dat o pronájmech bytů v Ostravě. Cílem bylo získat informace o nabídce bytů, zpracovat je a provést analýzu průměrných cen a velikostí. Součástí bylo také identifikovat nejdražší lokality a zobrazit data v přehledných grafech.
 ________________________________________
